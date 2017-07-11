@@ -1,0 +1,13 @@
+C:\Users\umeshp\Documents\Visual Studio 2017\Projects\ComicBookLibraryManager\obj\Debug\ComicBookLibraryManager.csprojResolveAssemblyReference.cache
+C:\Users\umeshp\Documents\Visual Studio 2017\Projects\ComicBookLibraryManager\bin\Debug\ComicBookLibraryManager.exe.config
+C:\Users\umeshp\Documents\Visual Studio 2017\Projects\ComicBookLibraryManager\bin\Debug\ComicBookLibraryManager.exe
+C:\Users\umeshp\Documents\Visual Studio 2017\Projects\ComicBookLibraryManager\bin\Debug\ComicBookLibraryManager.pdb
+C:\Users\umeshp\Documents\Visual Studio 2017\Projects\ComicBookLibraryManager\bin\Debug\EntityFramework.dll
+C:\Users\umeshp\Documents\Visual Studio 2017\Projects\ComicBookLibraryManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\umeshp\Documents\Visual Studio 2017\Projects\ComicBookLibraryManager\bin\Debug\EntityFramework.xml
+C:\Users\umeshp\Documents\Visual Studio 2017\Projects\ComicBookLibraryManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\umeshp\Documents\Visual Studio 2017\Projects\ComicBookLibraryManager\obj\Debug\ComicBookLibraryManager.exe
+C:\Users\umeshp\Documents\Visual Studio 2017\Projects\ComicBookLibraryManager\obj\Debug\ComicBookLibraryManager.pdb
+C:\Users\umeshp\Documents\Visual Studio 2017\Projects\ComicBookLibraryManager\bin\Debug\ComicBookShared.dll
+C:\Users\umeshp\Documents\Visual Studio 2017\Projects\ComicBookLibraryManager\bin\Debug\ComicBookShared.pdb
+C:\Users\umeshp\Documents\Visual Studio 2017\Projects\ComicBookLibraryManager\bin\Debug\ComicBookShared.dll.config
