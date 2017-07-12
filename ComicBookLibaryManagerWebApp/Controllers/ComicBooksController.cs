@@ -30,7 +30,7 @@ namespace ComicBookLibraryManagerWebApp.Controllers
         public ActionResult Index()
         {
 
-            var comicBooks = _comicBooksRepository.GetLists();
+            var comicBooks = _comicBooksRepository.GetList();
 
             return View(comicBooks);
         }
