@@ -38,7 +38,7 @@ namespace ComicBookShared.Data
 
         public void Delete(int id)
         {
-            var comicBookArtist = new ComicBookArtist();
+            var comicBookArtist = new ComicBookArtist() { Id = id};
             _context.Entry(comicBookArtist).State = EntityState.Deleted;
             _context.SaveChanges();
         }

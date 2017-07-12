@@ -8,3 +8,13 @@ C:\Users\umeshp\Documents\Visual Studio 2017\Projects\ComicBookShared\bin\Debug\
 C:\Users\umeshp\Documents\Visual Studio 2017\Projects\ComicBookShared\obj\Debug\ComicBookShared.csprojResolveAssemblyReference.cache
 C:\Users\umeshp\Documents\Visual Studio 2017\Projects\ComicBookShared\obj\Debug\ComicBookShared.dll
 C:\Users\umeshp\Documents\Visual Studio 2017\Projects\ComicBookShared\obj\Debug\ComicBookShared.pdb
+C:\Users\umeshp\Documents\GitHub\ComicBookRepository\ComicBookShared\bin\Debug\ComicBookShared.dll.config
+C:\Users\umeshp\Documents\GitHub\ComicBookRepository\ComicBookShared\bin\Debug\ComicBookShared.dll
+C:\Users\umeshp\Documents\GitHub\ComicBookRepository\ComicBookShared\bin\Debug\ComicBookShared.pdb
+C:\Users\umeshp\Documents\GitHub\ComicBookRepository\ComicBookShared\bin\Debug\EntityFramework.dll
+C:\Users\umeshp\Documents\GitHub\ComicBookRepository\ComicBookShared\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\umeshp\Documents\GitHub\ComicBookRepository\ComicBookShared\bin\Debug\EntityFramework.xml
+C:\Users\umeshp\Documents\GitHub\ComicBookRepository\ComicBookShared\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\umeshp\Documents\GitHub\ComicBookRepository\ComicBookShared\obj\Debug\ComicBookShared.csprojResolveAssemblyReference.cache
+C:\Users\umeshp\Documents\GitHub\ComicBookRepository\ComicBookShared\obj\Debug\ComicBookShared.dll
+C:\Users\umeshp\Documents\GitHub\ComicBookRepository\ComicBookShared\obj\Debug\ComicBookShared.pdb

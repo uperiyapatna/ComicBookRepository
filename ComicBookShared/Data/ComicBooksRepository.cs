@@ -39,7 +39,7 @@ namespace ComicBookShared
                     .Include(cb => cb.Artists.Select(a => a.Role));
                 
             }
-            return _context.ComicBooks
+            return comicBooks
                     .Where(cb => cb.Id == id)
                     .SingleOrDefault();
         }
